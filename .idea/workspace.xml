@@ -4,39 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0cf046e-b3b1-46df-9bbf-2c8d3f6a08c7" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonShowcaseApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.png/photo.png" afterDir="false" />
+    <list default="true" id="a0cf046e-b3b1-46df-9bbf-2c8d3f6a08c7" name="Changes" comment="Webpage creation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,7 +78,31 @@
       <option name="project" value="LOCAL" />
       <updated>1707736263806</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1707736775343</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707736775343</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1707736887139</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707736887139</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Webpage creation">
+      <option name="closed" value="true" />
+      <created>1707737321283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707737321283</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +130,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Webpage creation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Webpage creation" />
   </component>
 </project>
